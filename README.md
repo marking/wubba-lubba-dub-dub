@@ -1,7 +1,7 @@
 # wubba-lubba-dub-dub
 I am in great pain, please help me aka Rick and Morty quotes in the shell  
 
-Inspired by [vsbuffalo's](https://github.com/vsbuffalo) [good-news-everyone](https://github.com/vsbuffalo/good-news-everyone). Installation code borrowed.
+Inspired by [vsbuffalo's](https://github.com/vsbuffalo) [good-news-everyone](https://github.com/vsbuffalo/good-news-everyone). Installation code borrowed and adapted.
 
 Get Rick and Morty quotes in your shell! 
 

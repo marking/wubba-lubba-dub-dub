@@ -13,9 +13,8 @@ From the command line, run the following:
 curl -s https://raw.githubusercontent.com/cjfiscus/wubba-lubba-dub-dub/master/rickandmorty.txt |\awk '{print $0} END{print "total quotes: "NR > "/dev/stderr"}' > ~/.rickandmorty.txt
 ```
 
-Add the following line to your ```~/.bashrc```, ```~/.zshrc```, or ```~/. bash_profile```
+Add the following line to your ``~/.bashrc```,``` ~/.zshrc```, or ```~/. bash_profile```
 ```
-# wubba-lubba-dub-dub
 head -$((${RANDOM} % `wc -l < file` + 1)) ~/.rickandmorty | tail -1
 ```
 

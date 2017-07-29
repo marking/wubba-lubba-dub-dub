@@ -5,7 +5,7 @@ Inspired by [vsbuffalo's](https://github.com/vsbuffalo) [good-news-everyone](htt
 
 Get Rick and Morty quotes in your shell! 
 
-![screenshot](http://url/to/img.png)
+![screenshot](https://raw.githubusercontent.com/cjfiscus/wubba-lubba-dub-dub/master/screenshot.png)
 
 ## Installation
 From the command line, run the following code. This downloads the quotes to a hidden file and  places the file in your home directory ```~```. 

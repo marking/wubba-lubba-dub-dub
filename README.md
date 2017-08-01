@@ -20,6 +20,7 @@ head -$((${RANDOM} % `wc -l < ~/.rickandmorty.txt` + 1)) ~/.rickandmorty.txt | t
 ```
 Restart your terminal (or ```source ~/.bashrc``` or equivalent).
 
+
 Enjoy! 
  
  
